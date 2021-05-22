@@ -10,7 +10,6 @@ There’s also a button “Clear Filter” so the user can undo the modification
 ![Simulator Screen Shot - iPhone 11 - 2021-05-22 at 19 00 06](https://user-images.githubusercontent.com/80002790/119241923-51323000-bb30-11eb-997a-a58b9e4716a8.png)
 ![Simulator Screen Shot - iPhone 11 - 2021-05-22 at 19 00 12](https://user-images.githubusercontent.com/80002790/119241927-555e4d80-bb30-11eb-8c51-64359f25db20.png)
 ![Simulator Screen Shot - iPhone 11 - 2021-05-22 at 19 00 16](https://user-images.githubusercontent.com/80002790/119241928-57c0a780-bb30-11eb-8824-b80dbcb55c03.png)
-# Project13-InstaFilter![image](https://user-images.githubusercontent.com/80002790/119241943-7626a300-bb30-11eb-8b2a-9443d7adbaab.png)
-![image](https://user-images.githubusercontent.com/80002790/119241950-79ba2a00-bb30-11eb-9673-b68b701ff3ad.png)
-![image](https://user-images.githubusercontent.com/80002790/119241947-7888fd00-bb30-11eb-96f5-4c77cc1415df.png)
+
+
 
